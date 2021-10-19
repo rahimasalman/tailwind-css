@@ -10,5 +10,6 @@
 <p> After: </p>
 <h3>npx tailwindcss init  </h3>
 <p>  For the last time: </p>
+<br>
 <h3> npm install </h3>
 <h2> npm run dev </h2>
