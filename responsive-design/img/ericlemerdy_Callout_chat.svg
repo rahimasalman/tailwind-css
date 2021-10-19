@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg548"
+    inkscape:version="0.45+devel+devel"
+    inkscape:export-filename="I:\Documents and Settings\Eric\Bureau\Callout chat.png"
+    viewBox="0 0 500 450"
+    sodipodi:version="0.32"
+    inkscape:export-xdpi="24.450001"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:export-ydpi="24.450001"
+    sodipodi:docname="Callout chat.svg"
+    sodipodi:docbase="/var/www/html/svg_gallery/svg/callouts"
+  >
+  <defs
+      id="defs550"
+    >
+    <filter
+        id="filter3239"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3241"
+          stdDeviation="6.9230635"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      inkscape:window-x="-4"
+      inkscape:window-y="-4"
+      inkscape:zoom="0.38625"
+      inkscape:current-layer="svg548"
+      inkscape:cx="-230.09628"
+      inkscape:cy="-50.29904"
+      inkscape:window-width="1280"
+      showgrid="false"
+      inkscape:window-height="968"
+  />
+  <g
+      id="g3182"
+      transform="translate(14.44 9.9282)"
+    >
+    <path
+        id="path780"
+        style="fill-rule:evenodd;fill-opacity:.49804;filter:url(#filter3239);stroke-linecap:round;stroke-width:2.5;fill:#000000"
+        transform="matrix(.59329 0 0 .59329 -16.394 142.92)"
+        d="m257.44 30.841c-109.18 1.754-205.48 62.596-225.93 148.91-23.353 98.6 61.086 193.27 188.51 211.4 0.03 0.16-0.02 0.38-0.03 0.6l-0.73 0.03-99.29 92.34 204-95.84-2.01 0.06 1.31-1 2.92-0.09-2.22 1.03 2.8-0.1v-0.96h0.03c88.27-19.45 150.16-72.14 166.71-141.97 23.36-98.64-61.18-193.36-188.69-211.44-15.94-2.26-31.78-3.22-47.38-2.969z"
+    />
+    <path
+        id="path779"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#3399ff;stroke-linecap:round;stroke-width:15;fill:#ffffff"
+        d="m152.99 140.41c-64.776 1.05-121.91 37.14-134.04 88.35-13.858 58.5 36.239 114.67 111.84 125.43 0.01 0.09-0.01 0.22-0.02 0.35l-0.43 0.02-58.912 54.78 121.03-56.86-1.19 0.04 0.78-0.6 1.73-0.05-1.32 0.61 1.66-0.06v-0.57h0.02c52.37-11.54 89.09-42.8 98.91-84.23 13.86-58.52-36.3-114.72-111.95-125.44-9.46-1.34-18.86-1.91-28.11-1.77z"
+    />
+    <path
+        id="path2389"
+        style="fill-rule:evenodd;fill-opacity:.49804;filter:url(#filter3239);stroke-linecap:round;stroke-width:2.5;fill:#000000"
+        transform="matrix(-.74616 0 0 .74616 459.97 7.0539)"
+        d="m257.44 30.841c-109.18 1.754-205.48 62.596-225.93 148.91-23.353 98.6 61.086 193.27 188.51 211.4 0.03 0.16-0.02 0.38-0.03 0.6l-0.73 0.03-99.29 92.34 204-95.84-2.01 0.06 1.31-1 2.92-0.09-2.22 1.03 2.8-0.1v-0.96h0.03c88.27-19.45 150.16-72.14 166.71-141.97 23.36-98.64-61.18-193.36-188.69-211.44-15.94-2.26-31.78-3.22-47.38-2.969z"
+    />
+    <path
+        id="path2391"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#3399ff;stroke-linecap:round;stroke-width:20;fill:#ffffff"
+        d="m289.65 10.029c81.46 1.309 153.32 46.707 168.57 111.11 17.43 73.57-45.57 144.21-140.65 157.74-0.02 0.11 0.01 0.28 0.02 0.44l0.55 0.03 74.08 68.9-152.21-71.52 1.49 0.05-0.97-0.75-2.18-0.07 1.66 0.77-2.09-0.07v-0.72h-0.03c-65.86-14.51-112.04-53.82-124.38-105.93-17.44-73.601 45.64-144.28 140.79-157.77 11.89-1.682 23.71-2.398 35.35-2.211z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Callout chat</dc:title
+        >
+        <dc:date
+          >2008-02-19T10:10:56</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/14475/callout-chat-by-ericlemerdy</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >ericlemerdy</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >balloon</rdf:li
+            >
+            <rdf:li
+              >bubble</rdf:li
+            >
+            <rdf:li
+              >callout</rdf:li
+            >
+            <rdf:li
+              >speech</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
